@@ -54,8 +54,8 @@ chatbot-mern/
 
 ```bash
 
-git clone https://github.com/TU\_USUARIO/chatbot-mern.git
-
+git clone https://github.com/Leinnerf/chatbot-mern.git
+ 
 cd chatbot-mern
 
 ```
