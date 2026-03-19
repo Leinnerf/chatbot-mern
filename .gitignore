@@ -3,7 +3,7 @@ node_modules/
 client/node_modules/
 server/node_modules/
 
-# Variables de entorno (nunca subir al repositorio)
+# Variables de entorno
 .env
 server/.env
 
